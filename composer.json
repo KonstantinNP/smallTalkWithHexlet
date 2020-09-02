@@ -9,7 +9,6 @@
     "description": "Small talk with Hexlet",
     "keywords": ["hexlet", "php", "composer"],
     "license": "MIT",
-    "minimum-stability": "stable",
     "require": {},
     "bin": [
         "./sayHi",
